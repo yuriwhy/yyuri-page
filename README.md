@@ -12,4 +12,4 @@
 - [ ] Fix various resizing bugs.
 - [ ] "The August Update Part II".
 
-(Banner art by [RailaDiChacha](https://www.deviantart.com/railadichacha/art/Night-In-the-woods-665874154))
+*(Banner art by [RailaDiChacha](https://www.deviantart.com/railadichacha/art/Night-In-the-woods-665874154))*

@@ -10,8 +10,8 @@
 
 ### To Do
 
-- [ ] Fix the bug where you can't press buttons, which for some reason only happens on mobile.
-- [x] Fix various resizing bugs.
-- [x] "The August Update Part II".
+- [ ] Fix the bug where you can't press buttons, which for some reason only happens on mobile
+- [x] Fix various resizing bugs (Fixed in version 8.4)
+- [x] "The August Update Part II" (Fixed in version 8.4)
 
 *(Banner art by [RailaDiChacha](https://www.deviantart.com/railadichacha/art/Night-In-the-woods-665874154))*

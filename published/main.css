@@ -689,6 +689,10 @@ select {
     margin-bottom: 20px
 }
 
+.mb-\[25px\] {
+    margin-bottom: 25px
+}
+
 .mb-\[35px\] {
     margin-bottom: 35px
 }
@@ -737,10 +741,6 @@ select {
     margin-top: 0px
 }
 
-.mt-\[21px\] {
-    margin-top: 21px
-}
-
 .mt-\[22px\] {
     margin-top: 22px
 }
@@ -777,10 +777,6 @@ select {
     display: contents
 }
 
-.aspect-video {
-    aspect-ratio: 16 / 9
-}
-
 .h-20 {
     height: 5rem
 }
@@ -795,10 +791,6 @@ select {
 
 .h-\[268px\] {
     height: 268px
-}
-
-.h-\[33\.05\%\] {
-    height: 33.05%
 }
 
 .h-\[34\.27\%\] {
@@ -817,8 +809,16 @@ select {
     height: 37.31%
 }
 
-.h-\[59\.84\%\] {
-    height: 59.84%
+.h-\[38\.31\%\] {
+    height: 38.31%
+}
+
+.h-\[65\.53\%\] {
+    height: 65.53%
+}
+
+.h-\[71\.1\%\] {
+    height: 71.1%
 }
 
 .h-\[auto\%\] {
@@ -845,24 +845,16 @@ select {
     width: 100%
 }
 
-.w-\[20\.31\%\] {
-    width: 20.31%
+.w-\[24\.13\%\] {
+    width: 24.13%
 }
 
 .w-\[24px\] {
     width: 24px
 }
 
-.w-\[25\.41\%\] {
-    width: 25.41%
-}
-
 .w-\[25\.9\%\] {
     width: 25.9%
-}
-
-.w-\[33\.05\%\] {
-    width: 33.05%
 }
 
 .w-\[34\.27\%\] {
@@ -877,8 +869,16 @@ select {
     width: 37.31%
 }
 
+.w-\[38\.31\%\] {
+    width: 38.31%
+}
+
 .w-\[46\.3\%\] {
     width: 46.3%
+}
+
+.w-\[65\.53\%\] {
+    width: 65.53%
 }
 
 .w-\[auto\%\] {
@@ -982,6 +982,10 @@ select {
     transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y))
 }
 
+.cursor-help {
+    cursor: help
+}
+
 .cursor-not-allowed {
     cursor: not-allowed
 }
@@ -1077,10 +1081,6 @@ select {
     margin-bottom: calc(0px * var(--tw-space-y-reverse))
 }
 
-.overflow-hidden {
-    overflow: hidden
-}
-
 .overflow-visible {
     overflow: visible
 }
@@ -1091,10 +1091,6 @@ select {
 
 .rounded-\[4px\] {
     border-radius: 4px
-}
-
-.rounded-\[6px\] {
-    border-radius: 6px
 }
 
 .rounded-\[9999px\] {
@@ -2047,12 +2043,24 @@ select {
         margin-bottom: -99px
     }
 
-    .sm\:mb-\[13px\] {
-        margin-bottom: 13px
+    .sm\:mb-\[10px\] {
+        margin-bottom: 10px
+    }
+
+    .sm\:mb-\[11px\] {
+        margin-bottom: 11px
     }
 
     .sm\:mb-\[19px\] {
         margin-bottom: 19px
+    }
+
+    .sm\:mb-\[20px\] {
+        margin-bottom: 20px
+    }
+
+    .sm\:mb-\[22px\] {
+        margin-bottom: 22px
     }
 
     .sm\:mb-\[25px\] {
@@ -2067,16 +2075,24 @@ select {
         margin-top: -33px
     }
 
+    .sm\:mt-\[-38px\] {
+        margin-top: -38px
+    }
+
     .sm\:mt-\[-6px\] {
         margin-top: -6px
     }
 
-    .sm\:mt-\[11px\] {
-        margin-top: 11px
+    .sm\:mt-\[0px\] {
+        margin-top: 0px
     }
 
-    .sm\:mt-\[12px\] {
-        margin-top: 12px
+    .sm\:mt-\[10px\] {
+        margin-top: 10px
+    }
+
+    .sm\:mt-\[13px\] {
+        margin-top: 13px
     }
 
     .sm\:mt-\[14px\] {
@@ -2111,16 +2127,28 @@ select {
         height: 76px
     }
 
+    .sm\:h-\[88\%\] {
+        height: 88%
+    }
+
     .sm\:h-\[88px\] {
         height: 88px
     }
 
-    .sm\:w-\[106px\] {
-        width: 106px
+    .sm\:w-\[100\%\] {
+        width: 100%
     }
 
-    .sm\:w-\[107\.65\%\] {
-        width: 107.65%
+    .sm\:w-\[165px\] {
+        width: 165px
+    }
+
+    .sm\:w-\[200px\] {
+        width: 200px
+    }
+
+    .sm\:w-\[318\%\] {
+        width: 318%
     }
 
     .sm\:w-\[472px\] {
@@ -2153,6 +2181,12 @@ select {
         max-width: fit-content
     }
 
+    .sm\:scale-\[1\.12\] {
+        --tw-scale-x: 1.12;
+        --tw-scale-y: 1.12;
+        transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y))
+    }
+
     .sm\:scale-\[1\.16\] {
         --tw-scale-x: 1.16;
         --tw-scale-y: 1.16;
@@ -2169,6 +2203,14 @@ select {
         --tw-scale-x: 1.5;
         --tw-scale-y: 1.5;
         transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y))
+    }
+
+    .sm\:flex-wrap {
+        flex-wrap: wrap
+    }
+
+    .sm\:gap-\[30px\] {
+        gap: 30px
     }
 
     .sm\:space-x-\[-50px\]> :not([hidden])~ :not([hidden]) {
